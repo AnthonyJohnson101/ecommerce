@@ -7,6 +7,7 @@
   An easy to use eccomerce backend meant to be manipulated with insomnia.
   
   Demo: https://drive.google.com/file/d/1uE3UrJBbAglKeLui4jfiX8cLIIXjAhLx/view
+  ![image](https://user-images.githubusercontent.com/116526152/234422292-c44a8184-45a1-4086-9e5a-71d221205b10.png)
 
   ## Table of Contents
   ###  [Installation](#installation)
